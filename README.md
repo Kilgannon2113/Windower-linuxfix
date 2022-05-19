@@ -1,6 +1,4 @@
 # linuxfix 0.4.4
-
-This branch will be preserved at version 0.4.4 to assist those on private servers whose files are not up today.
 # Do not bother using this if you are on Windows.
 
 This addon will need to be autoloaded via your init.
