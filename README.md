@@ -1,4 +1,4 @@
-# linuxfix 0.4.4
+# linuxfix 0.5.0
 # Do not bother using this if you are on Windows.
 
 This addon will need to be autoloaded via your init.
